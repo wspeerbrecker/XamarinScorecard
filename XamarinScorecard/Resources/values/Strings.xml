@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">XamarinScorecard</string>
+  <string name="Date">yyyy-mm-dd</string>
+  <string name="score1">111</string>
+  <string name="score2">222</string>
+  <string name="score3">333</string>
+</resources>
